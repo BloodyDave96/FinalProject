@@ -1,0 +1,25 @@
+﻿@page
+@model MyGrpcService.Pages.FetchDataModel
+@{
+    ViewData["Title"] = "Fetch Data";
+}
+
+<h2>Fetch Data</h2>
+
+@if (Model.Order != null)
+{
+    <p>Order ID: @Model.Order.Id</p>
+    <p>Customer ID: @Model.Order.CustomerId</p>
+    <p>Customer Name: @Model.Order.CustomerName</p>
+    <h3>Products</h3>
+    <ul>
+        @foreach (var product in Model.Order.Products)
+        {
+            <li>@product.Name - @product.Price</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No data found</p>
+}

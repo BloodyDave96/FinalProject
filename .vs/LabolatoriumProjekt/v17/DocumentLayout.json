@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C104F1-BEDC-4EF7-9064-9AA050D70729}|MyRazorPages\\MyRazorPages.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\myrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C104F1-BEDC-4EF7-9064-9AA050D70729}|MyRazorPages\\MyRazorPages.csproj|solutionrelative:myrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C104F1-BEDC-4EF7-9064-9AA050D70729}|MyRazorPages\\MyRazorPages.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\myrazorpages\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9C104F1-BEDC-4EF7-9064-9AA050D70729}|MyRazorPages\\MyRazorPages.csproj|solutionrelative:myrazorpages\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D387641-E716-446C-834C-6128738240F9}|script{6D387641-E716-446C-834C-6128738240F9}|C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\test_endpoints.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D387641-E716-446C-834C-6128738240F9}|script{6D387641-E716-446C-834C-6128738240F9}|solutionrelative:test_endpoints.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462D20B-3ACC-42AF-BB0C-B1496768FE50}|Testy\\Testy.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\testy\\restapi\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E462D20B-3ACC-42AF-BB0C-B1496768FE50}|Testy\\Testy.csproj|solutionrelative:testy\\restapi\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462D20B-3ACC-42AF-BB0C-B1496768FE50}|Testy\\Testy.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\testy\\restapi\\ordercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E462D20B-3ACC-42AF-BB0C-B1496768FE50}|Testy\\Testy.csproj|solutionrelative:testy\\restapi\\ordercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462D20B-3ACC-42AF-BB0C-B1496768FE50}|Testy\\Testy.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\testy\\restapi\\customercontrollerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E462D20B-3ACC-42AF-BB0C-B1496768FE50}|Testy\\Testy.csproj|solutionrelative:testy\\restapi\\customercontrollerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\repositories\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\repositories\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\restapi\\repositories\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213DC527-0382-4A4A-A35B-F16E71FF5A78}|RestApi\\RestApi.csproj|solutionrelative:restapi\\repositories\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\mygrpcservice\\mygrpcservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|solutionrelative:mygrpcservice\\mygrpcservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C104F1-BEDC-4EF7-9064-9AA050D70729}|MyRazorPages\\MyRazorPages.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\myrazorpages\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C104F1-BEDC-4EF7-9064-9AA050D70729}|MyRazorPages\\MyRazorPages.csproj|solutionrelative:myrazorpages\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\mygrpcservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|solutionrelative:mygrpcservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\mygrpcservice\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|solutionrelative:mygrpcservice\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\mygrpcservice\\pages\\fetchdata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|solutionrelative:mygrpcservice\\pages\\fetchdata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\mygrpcservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|solutionrelative:mygrpcservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\mygrpcservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|solutionrelative:mygrpcservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\mygrpcservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|solutionrelative:mygrpcservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|c:\\users\\maciu\u015B\\desktop\\labolatoriumprojekt\\mygrpcservice\\pages\\fetchdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5165EED6-267F-4500-A8FD-BF138878D196}|MyGrpcService\\MyGrpcService.csproj|solutionrelative:mygrpcservice\\pages\\fetchdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\RestApi.csproj",
+              "RelativeDocumentMoniker": "RestApi\\RestApi.csproj",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\RestApi.csproj",
+              "RelativeToolTip": "RestApi\\RestApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T14:41:14.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\Testy\\RestApi\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "Testy\\RestApi\\ProductsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\Testy\\RestApi\\ProductsControllerTests.cs",
+              "RelativeToolTip": "Testy\\RestApi\\ProductsControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:20:47.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\Testy\\RestApi\\OrderControllerTests.cs",
+              "RelativeDocumentMoniker": "Testy\\RestApi\\OrderControllerTests.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\Testy\\RestApi\\OrderControllerTests.cs",
+              "RelativeToolTip": "Testy\\RestApi\\OrderControllerTests.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwGgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:19:23.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerControllersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\Testy\\RestApi\\CustomerControllersTests.cs",
+              "RelativeDocumentMoniker": "Testy\\RestApi\\CustomerControllersTests.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\Testy\\RestApi\\CustomerControllersTests.cs",
+              "RelativeToolTip": "Testy\\RestApi\\CustomerControllersTests.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvxQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:14:15.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Program.cs",
+              "RelativeDocumentMoniker": "RestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Program.cs",
+              "RelativeToolTip": "RestApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:35:21.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test_endpoints.sh",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\test_endpoints.sh",
+              "RelativeDocumentMoniker": "test_endpoints.sh",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\test_endpoints.sh",
+              "RelativeToolTip": "test_endpoints.sh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-06-23T20:19:20.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyRazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "MyRazorPages\\Program.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyRazorPages\\Program.cs",
+              "RelativeToolTip": "MyRazorPages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:18:20.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RestApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Models\\Product.cs",
+              "RelativeToolTip": "RestApi\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:18:52.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyRazorPages\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyRazorPages\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyRazorPages\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "MyRazorPages\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T20:20:37.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "RestApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "RestApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:39:41.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "RestApi\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "RestApi\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:27:24.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "RestApi\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "RestApi\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:40:57.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "RestApi\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\OrderService.cs",
+              "RelativeToolTip": "RestApi\\Services\\OrderService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwC0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:40:23.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "RestApi\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\IProductService.cs",
+              "RelativeToolTip": "RestApi\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:40:47.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "RestApi\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\IOrderService.cs",
+              "RelativeToolTip": "RestApi\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:40:15.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "RestApi\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "RestApi\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:27:44.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "RestApi\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Services\\CustomerService.cs",
+              "RelativeToolTip": "RestApi\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:28:02.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Repositories\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "RestApi\\Repositories\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Repositories\\MyDbContext.cs",
+              "RelativeToolTip": "RestApi\\Repositories\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:28:26.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Repositories\\Middleware.cs",
+              "RelativeDocumentMoniker": "RestApi\\Repositories\\Middleware.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\RestApi\\Repositories\\Middleware.cs",
+              "RelativeToolTip": "RestApi\\Repositories\\Middleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:22:41.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyGrpcService.csproj",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\MyGrpcService.csproj",
+              "RelativeDocumentMoniker": "MyGrpcService\\MyGrpcService.csproj",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\MyGrpcService.csproj",
+              "RelativeToolTip": "MyGrpcService\\MyGrpcService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T20:51:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyRazorPages\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "MyRazorPages\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyRazorPages\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "MyRazorPages\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:20:46.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\Program.cs",
+              "RelativeDocumentMoniker": "MyGrpcService\\Program.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\Program.cs",
+              "RelativeToolTip": "MyGrpcService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:17:23.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyGrpcService\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\MyDbContext.cs",
+              "RelativeToolTip": "MyGrpcService\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:34:13.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FetchData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\Pages\\FetchData.cshtml.cs",
+              "RelativeDocumentMoniker": "MyGrpcService\\Pages\\FetchData.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\Pages\\FetchData.cshtml.cs",
+              "RelativeToolTip": "MyGrpcService\\Pages\\FetchData.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:31:26.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "MyGrpcService\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\Services\\OrderService.cs",
+              "RelativeToolTip": "MyGrpcService\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:33:34.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\appsettings.json",
+              "RelativeDocumentMoniker": "MyGrpcService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\appsettings.json",
+              "RelativeToolTip": "MyGrpcService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T20:44:16.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyGrpcService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\appsettings.Development.json",
+              "RelativeToolTip": "MyGrpcService\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T20:55:42.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FetchData.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\Pages\\FetchData.cshtml",
+              "RelativeDocumentMoniker": "MyGrpcService\\Pages\\FetchData.cshtml",
+              "ToolTip": "C:\\Users\\Maciu\u015B\\Desktop\\LabolatoriumProjekt\\MyGrpcService\\Pages\\FetchData.cshtml",
+              "RelativeToolTip": "MyGrpcService\\Pages\\FetchData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T20:31:15.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

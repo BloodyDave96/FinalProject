@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "mj+N51EU9RW+h/iooq4whe1B9PaElHbI2HMH0RuSLjwuEzq4yYfBE9aLznNMDG1SuxJvney+CKp87nyBWrwAcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maciuś\\Desktop\\LabolatoriumProjekt\\MyRazorPages\\MyRazorPages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maciuś\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",
+    "C:\\Users\\Maciuś\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.0-preview1\\microsoft.identitymodel.abstractions.8.0.0-preview1.nupkg.sha512",
+    "C:\\Users\\Maciuś\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\Maciuś\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.0-preview1\\microsoft.identitymodel.logging.8.0.0-preview1.nupkg.sha512",
+    "C:\\Users\\Maciuś\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\Maciuś\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "C:\\Users\\Maciuś\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.0-preview1\\microsoft.identitymodel.tokens.8.0.0-preview1.nupkg.sha512",
+    "C:\\Users\\Maciuś\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
